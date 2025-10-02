@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>WhatsApp bewoks</title>
+        <link rel="stylesheet" href="style2.css" />
+    </head>
+    <body>
+        <div class="body">
+        <!-- NAVIGATION BAR -->
+         <div class="navbar">
+            <ul class="ul-navbar">
+                <li class="li-navbar"></li>
+                    <a href="web.html" class="a-navbar">Home</a>
+                <li class="li-navbar"></li>
+                    <a href="instagram.html" class="a-navbar">Instagram</a>
+                <li class="li-navbar"></li>
+                <a href="tiktok.html" class="a-navbar">Tiktok</a>
+            </ul>
+         </div>
+        <!-- NAVIGATION BAR END -->
+
+        <!-- CONTEN1 -->
+         <div class="conten">
+            <a href="linkwa.html" class="a-conten">
+                <img src="WhatsApp.svg.webp" class="img-conten"/>
+            </a>
+         </div>
+        <!-- CONTEN1 END -->
+
+        <!-- FOOTER -->
+        <!-- FOOTER END -->
+          </div>
+    </body>
+</html>
